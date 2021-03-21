@@ -1,6 +1,6 @@
 # helm charts
 
-These are personal helm charts, don't expect them to work as you expect
+These are personal helm charts for random shit like ArchiveTeam's warrior
 
 ## Usage
 
