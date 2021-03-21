@@ -3,6 +3,16 @@ entries:
   warrior:
   - apiVersion: v2
     appVersion: latest
+    created: "2021-03-21T02:23:33.12355646Z"
+    description: A Helm chart for ArchiveTeam Warrior
+    digest: ab346ae42661e7c0a4810b38ceb284f0efd91e402df295f62957474211578631
+    name: warrior
+    type: application
+    urls:
+    - https://github.com/chriscoffee/helm-charts/releases/download/warrior-0.1.2/warrior-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: latest
     created: "2021-03-21T01:59:48.520404035Z"
     description: A Helm chart for ArchiveTeam Warrior
     digest: 4b602e4c399c24b383466c387cebe2689e9127816427b24d2f17a2232e675de2
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/chriscoffee/helm-charts/releases/download/warrior-0.1.0/warrior-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-21T01:59:48.520412136Z"
+generated: "2021-03-21T02:23:33.12356756Z"
