@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  warrior:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-03-21T01:32:23.399316Z"
+    description: A Helm chart for ArchiveTeam Warrior
+    digest: daa01c9c38b3f1a2c562e1fef7f54a1d26fc9648ab253d167f096a6bda1e8878
+    name: warrior
+    type: application
+    urls:
+    - https://github.com/chriscoffee/helm-charts/releases/download/warrior-0.1.0/warrior-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-21T01:32:23.399467Z"
